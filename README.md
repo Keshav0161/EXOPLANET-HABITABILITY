@@ -7,9 +7,9 @@ It uses a **machine learning model** trained on NASA exoplanet data and comes wi
 
 ## 📂 Files in the project
 
-- `EXO2.ipynb` — Notebook for data preprocessing, model training, and saving.  
+- `TRAINING_CODE.py` — Notebook for data preprocessing, model training, and saving.  
 - `exo_life_pipeline.pkl` — Saved machine learning pipeline (model + preprocessing).  
-- `gradio_app.py` — Web interface to test planets interactively.  
+- `final.py` — Web interface to test planets interactively.  
 - `requirements.txt` — List of Python packages needed to run the project.  
 
 ---
